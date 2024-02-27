@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_manger"]=self["webpackChunkapp_manger"]||[]).push([[767],{5767:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var a=function(){var n=this,e=n._self._c;return e("div",[n._v(" page1 ")])},r=[],t={name:"xxx",data(){return{}},methods:{}},l=t,p=u(1656),s=(0,p.A)(l,a,r,!1,null,null,null),c=s.exports}}]);
+//# sourceMappingURL=767.7648ecea.js.map

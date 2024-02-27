@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunkapp_manger"]=self["webpackChunkapp_manger"]||[]).push([[967],{7967:function(n,e,u){u.r(e),u.d(e,{default:function(){return c}});var a=function(){var n=this,e=n._self._c;return e("div",[n._v(" mall ")])},r=[],t={name:"xxx",data(){return{}},methods:{}},l=t,s=u(1656),p=(0,s.A)(l,a,r,!1,null,null,null),c=p.exports}}]);
+//# sourceMappingURL=967.fcc745c1.js.map
